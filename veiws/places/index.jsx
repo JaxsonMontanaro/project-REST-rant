@@ -16,4 +16,3 @@ function index (data) {
       </Def>
   )
   }
-  
